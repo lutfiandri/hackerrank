@@ -1,2 +1,2 @@
 # hackerrank-algorithms-c
-Lutfi Andriyanto
+Lutfi Andriyanto | 2020
