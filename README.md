@@ -1,6 +1,5 @@
 # hackerrank
 
-target bahasa c sampai akhir november 2020
+- target bahasa `c` sampai akhir november 2020
 
-silahkan baca, tapi jadikan referensi aja ya, jangan langsung upload ke hackerrank
-makasih :)
+silahkan baca, tapi jadikan referensi aja ya, jangan langsung upload ke hackerrank. makasihh :D
