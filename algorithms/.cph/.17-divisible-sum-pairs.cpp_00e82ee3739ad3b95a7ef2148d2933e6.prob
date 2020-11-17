@@ -1,0 +1,1 @@
+{"name":"Local: 17-divisible-sum-pairs","url":"/home/lutfi/Documents/Github/hackerrank/algorithms/17-divisible-sum-pairs.cpp","tests":[{"id":1603948307825,"input":"6 3\n1 3 2 6 1 2","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/lutfi/Documents/Github/hackerrank/algorithms/17-divisible-sum-pairs.cpp","group":"local","local":true}
